@@ -9,7 +9,7 @@ You can see the impressive [animation on Dribbble](https://dribbble.com/shots/20
 
 ##Why I Do This?
 
-As a motion designer（[My Dribbble](https://dribbble.com/MartinRGB)）,I begin to learn some code,try to work with both Xcode and Facebook Origami.
+As a motion designer（[My Dribbble](https://dribbble.com/MartinRGB)）,I begin to learn some code,try to work with both Android Studio and Facebook Origami.
 
 Also I thought beautiful things should be implemented.
 
