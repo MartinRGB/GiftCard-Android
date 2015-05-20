@@ -27,7 +27,7 @@ This is the effect in Origami
 
 ![xcode](https://github.com/MartinRGB/GiftCard-Implementation/blob/master/Gif/Xcode.gif?raw=true)
 
-This is the effect in Xcode
+This is the effect in Nexus 5(I captured the screen by using Android Tools)
 
 
-P.S Special Thanks to 武☁️牛、AlienJunX、Franz、Kevin Lee,They helped me a lot.
+P.S Special Thanks to 俊伟,He helped me a lot.
