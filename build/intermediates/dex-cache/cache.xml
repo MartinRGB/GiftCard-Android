@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/martinrgb/Desktop/GiftCard-Android/libs/rebound-0.3.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="da23f0d13a0a572e01a1b53b547cbdc7a5b52209">
+        <dex dex="/Users/martinrgb/Desktop/GiftCard-Android/build/intermediates/pre-dexed/debug/rebound-0.3.7-00c09395df98faeb614c92fc3172d963edd3d00a.jar" />
+    </item>
+
+</items>

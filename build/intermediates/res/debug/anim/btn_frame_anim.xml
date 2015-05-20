@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true" >
+    <item android:drawable="@drawable/buybtn00000" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00001" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00002" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00004" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00005" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00006" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00007" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00008" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00009" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00010" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00011" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00012" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00013" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00014" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00015" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00016" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00017" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00018" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00019" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00020" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00021" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00022" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00023" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00024" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00025" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00026" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00027" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00028" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00029" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00030" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00031" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00032" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00033" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00034" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00035" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00036" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00037" android:duration="@integer/frame_duration" />
+    <item android:drawable="@drawable/buybtn00038" android:duration="@integer/frame_duration" />
+</animation-list><!-- From: file:/Users/martinrgb/Desktop/GiftCard-Android/src/main/res/anim/btn_frame_anim.xml -->

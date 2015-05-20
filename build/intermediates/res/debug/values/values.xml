@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/martinrgb/Desktop/GiftCard-Android/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/martinrgb/Desktop/GiftCard-Android/src/main/res/values/interger.xml -->
+    <eat-comment/>
+    <integer name="frame_duration">42</integer>
+    <!-- From: file:/Users/martinrgb/Desktop/GiftCard-Android/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">GiftCard-Android</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/Users/martinrgb/Desktop/GiftCard-Android/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
