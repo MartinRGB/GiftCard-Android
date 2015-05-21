@@ -40,4 +40,4 @@
     <item android:drawable="@drawable/buybtn00036" android:duration="@integer/frame_duration" />
     <item android:drawable="@drawable/buybtn00037" android:duration="@integer/frame_duration" />
     <item android:drawable="@drawable/buybtn00038" android:duration="@integer/frame_duration" />
-</animation-list><!-- From: file:/Users/martinrgb/Desktop/GiftCard-Android/src/main/res/anim/btn_frame_anim.xml -->
+</animation-list><!-- From: file:/home/linshen/Libraries/GiftCard-Android/src/main/res/anim/btn_frame_anim.xml -->

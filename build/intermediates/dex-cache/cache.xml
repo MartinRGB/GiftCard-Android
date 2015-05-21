@@ -2,11 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Users/martinrgb/Desktop/GiftCard-Android/libs/rebound-0.3.7.jar"
+        jar="/home/linshen/Libraries/GiftCard-Android/libs/rebound-0.3.7.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="da23f0d13a0a572e01a1b53b547cbdc7a5b52209">
-        <dex dex="/Users/martinrgb/Desktop/GiftCard-Android/build/intermediates/pre-dexed/debug/rebound-0.3.7-00c09395df98faeb614c92fc3172d963edd3d00a.jar" />
+        <dex dex="/home/linshen/Libraries/GiftCard-Android/build/intermediates/pre-dexed/debug/rebound-0.3.7-d3e87a26b4faafd5ca60ff92b3301dc112cf2171.jar" />
     </item>
 
 </items>
